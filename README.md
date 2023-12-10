@@ -59,9 +59,9 @@ Formatos Padrão de Representação: RESTful APIs frequentemente especificam for
   ## HTTP verbs
 Os HTTP verbs (métodos HTTP) são ações que indicam a intenção do cliente ao interagir com um recurso na web. Cada verbo representa uma operação específica sobre o recurso identificado pela URL. 
 
-AUTOR DO RESUMO: Cauã Victor Guedes Alves - 01588771
-
   ## HTTP Status Code
   
 Os códigos de status HTTP são indicadores numéricos fornecidos pela resposta do servidor para informar ao cliente o resultado da requisição HTTP. Eles ajudam a entender o estado da comunicação entre o cliente e o servidor.
+
+AUTOR DO RESUMO: Cauã Victor Guedes Alves - 01588771
   
